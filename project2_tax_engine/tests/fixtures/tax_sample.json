@@ -1,0 +1,26 @@
+[
+  {
+    "description": "Exempt income bracket",
+    "gross_income": "200000",
+    "expected_paye": "0.00",
+    "expected_nssf": "10000.00"
+  },
+  {
+    "description": "Tier 2 income bracket",
+    "gross_income": "300000",
+    "expected_paye": "6500.00",
+    "expected_nssf": "15000.00"
+  },
+  {
+    "description": "Tier 3 income bracket",
+    "gross_income": "400000",
+    "expected_paye": "23000.00",
+    "expected_nssf": "20000.00"
+  },
+  {
+    "description": "Tier 4 income bracket",
+    "gross_income": "500000",
+    "expected_paye": "52000.00",
+    "expected_nssf": "25000.00"
+  }
+]

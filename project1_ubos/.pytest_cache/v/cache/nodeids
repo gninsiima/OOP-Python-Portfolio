@@ -1,0 +1,4 @@
+[
+  "tests/test_district.py::test_district_calculations",
+  "tests/test_district.py::test_district_validation"
+]

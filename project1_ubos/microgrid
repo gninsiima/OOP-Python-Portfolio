@@ -1,0 +1,6 @@
+msds-oop-python-assignment2/ (microgrid)
+│
+├── src/
+│   ├── __init__.py
+│   └── microgrid.py
+└── requirements.txt
